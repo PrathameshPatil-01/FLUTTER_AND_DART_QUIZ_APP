@@ -4,7 +4,7 @@ This Flutter Quiz App is designed to test your knowledge of Flutter and Dart. It
 
 ## Table of Contents
 
-- [Live Demo](#live-demo)
+- [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Features](#features)
 - [Screenshots](#screenshots)
@@ -13,9 +13,9 @@ This Flutter Quiz App is designed to test your knowledge of Flutter and Dart. It
 - [Contributing](#contributing)
 
 
-## Live Demo
+## Demo
 
-<img src="screenshots/quiz.gif" alt="Live Demo" width="400" height="600">
+<img src="screenshots/quiz.gif" alt="Demo" width="400" height="600">
 
 ## Getting Started
 
