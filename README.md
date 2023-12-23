@@ -5,6 +5,7 @@ This Flutter Quiz App is designed to test your knowledge of Flutter and Dart. It
 ## Table of Contents
 
 - [Demo](#demo)
+- [Download_APK](#download-apk)
 - [Getting Started](#getting-started)
 - [Features](#features)
 - [Screenshots](#screenshots)
@@ -16,6 +17,16 @@ This Flutter Quiz App is designed to test your knowledge of Flutter and Dart. It
 ## Demo
 
 <img src="screenshots/quiz.gif" alt="Demo" width="400" height="600">
+
+## Download APK:
+
+<a href="https://drive.google.com/file/d/1sclOEmlNFjlN2s4RtJFUAakVQ6QKHgU3/view">
+  <img src="assets/icons/icon.png" alt="Download" width="100" height="100">
+</a>
+
+### Flutter Quiz Apk
+
+[Direct download link](https://drive.google.com/file/d/1sclOEmlNFjlN2s4RtJFUAakVQ6QKHgU3/view)
 
 ## Getting Started
 
